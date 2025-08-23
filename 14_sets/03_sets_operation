@@ -1,0 +1,6 @@
+a = { 12, 45, 67, 98, 65 }
+b = { 98, 78, 65, 67, 34 }
+
+print(a.union(b))#its print all unique values from both sets 
+print(a.intersection(b))#its print common values from both sets
+print(a.difference(b))#its print values which are in set a but not in set b
