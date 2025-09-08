@@ -1,4 +1,4 @@
-# s = "hello world"#strings is immutable
+# s = "hello world"#strings is immutable immutable means you cannot change the value of a string
 # # s[0]="r"#you can do this
 # a = len(s)
 # print(a)

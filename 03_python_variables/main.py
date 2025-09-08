@@ -17,3 +17,6 @@ age = 32 # Valid because variable can start with a number
 __age = 34
 __nice_45 = 34
 a_b_c_7 = "Sam"
+
+#python variables is a container that holds a value and the value can be of any data type
+#e.g age is a variable that holds an integer value 3

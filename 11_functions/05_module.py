@@ -7,3 +7,6 @@ import mymodule
 
 print(math.sqrt(16))
 mymodule.hello()
+
+#import is a function which is used to import a module in python 
+#module is a file containing python code

@@ -1,5 +1,5 @@
 a = 23
-b = "34"
+b = "34" #it is a string because it is in quotes
 d=223
 
 print(a)
@@ -9,7 +9,7 @@ print(b)
 print(type(b))
 
 #b convert to an integer
-c = int(b)
+c = int(b) #this convets string to integer
 print(c)
 print(type(c))
 

@@ -11,4 +11,5 @@ c2 = 300
 s1 = template.format(a, a1)
 print(s1)
 
-print(f"{a} you are awesome and take this {a1}$ bag")
+print(f"{a} you are awesome and take this {a1}$ bag") # f strings (only in python 3.6 and above)it is used
+#to embed expressions inside string literals, using curly braces {}

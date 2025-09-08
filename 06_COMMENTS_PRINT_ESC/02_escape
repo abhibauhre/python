@@ -11,7 +11,7 @@ Escape sequences are used to include special characters in strings.
 • 
 • 
 \n : Newline
- \t : Tab
+ \t : Tab #it is use to add space
  \\ : Backslash
  \" : Double quote
  \' : Single quote

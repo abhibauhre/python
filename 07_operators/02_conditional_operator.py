@@ -2,7 +2,7 @@ a = 34
 
 b = 2
 
-# Conditional Operators 
+# Conditional Operators gives boolean value True or False
 print(a>4)
 print(a<4)
 print(a<=4)
