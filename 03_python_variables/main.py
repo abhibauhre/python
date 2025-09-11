@@ -10,7 +10,6 @@ cgpa = 4.55 # float
 # They can contain letters, numbers, and underscores.
 # Variable names are case-sensitive (age and Age are different).
 # Avoid using Python keywords (e.g., if, for, while) as variable names.
-
 # 34age = 4 # Invalid because variable cannot start with a number
 age = 32 # Valid because variable can start with a number 
 # a$$ge = 45 # Invlaid because variables cannot contain special characters other than _
