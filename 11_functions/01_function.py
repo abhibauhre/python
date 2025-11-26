@@ -1,3 +1,38 @@
+# A function is a reusable block of code that performs a specific task.
+# You define a function using:
+
+# def function_name(parameters):
+#     # body
+#     return value
+
+
+# Functions help:
+
+# reduce code repetition
+
+# increase readability
+
+# break big programs into small pieces
+
+# implement logic cleanly
+
+# perform modular programming
+
+# Topics included:
+
+# Normal Functions
+
+# Function Arguments (positional, keyword, default, *args, **kwargs)
+
+# Lambda Functions
+
+# Recursion
+
+# Modules / Custom Modules
+
+# Function Scope (Local, Global, Nonlocal)
+
+
 # a = 3
 # b = 7
 # c= 9

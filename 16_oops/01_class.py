@@ -28,3 +28,14 @@ e = workers()
 print(e.getsalary())
 print(e.company)
 #e is an object of class workers    
+# OOP (Object-Oriented Programming) is a programming style where we design programs using classes and objects.
+
+# OOP has 4 pillars:
+
+# Encapsulation — binding data + methods together
+
+# Abstraction — hiding complex details
+
+# Inheritance — child classes inherit features from parent
+
+# Polymorphism — same function name, different behavior

@@ -1,3 +1,19 @@
+# Typecasting is the process of converting one data type into another.
+# Python allows you to convert:
+# string → integer
+# integer → string
+# float → integer
+# integer → float
+# anything → string
+# string → float
+# Python has built-in functions for this:
+
+# Function	Purpose
+# int()	Converts to integer
+# float()	Converts to float
+# str()	Converts to string
+# bool()	Converts to boolean
+
 a = 23
 b = "34" #it is a string because it is in quotes
 d=223

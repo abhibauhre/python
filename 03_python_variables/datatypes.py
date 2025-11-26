@@ -1,15 +1,24 @@
-# Python supports several built-in data types:
-#     Integers (int): Whole numbers (e.g., 10, -5).
-#     Floats (float): Decimal numbers (e.g., 3.14, -0.001).
-#     Strings (str): Text data enclosed in quotes (e.g., "Hello", 'Python').
-#     Booleans (bool): Represents True or False.
-#     Lists: Ordered, mutable collections (e.g., [1, 2, 3]).
-#     Tuples: Ordered, immutable collections (e.g., (1, 2, 3)).
-#     Sets: Unordered collections of unique elements (e.g., {1, 2, 3}).
-#     Dictionaries: Key-value pairs (e.g., {"name": "Alice", "age": 25}).
+'''Data Types
 
-'''datatypes is a classification that specifies which type of value a variable has and 
-what type of mathematical, relational or logical operations can be applied to it.'''
+A data type defines what kind of value a variable can store and what operations you can perform on it.
+
+Python has the following built-in data types:
+
+int → whole numbers (e.g., 10, -5)
+
+float → decimal numbers (e.g., 3.14, -0.001)
+
+str → text (in quotes)
+
+bool → True/False
+
+list → ordered, mutable collection → [1,2,3]
+
+tuple → ordered, immutable collection → (1,2,3)
+
+set → unique, unordered collection → {1,2,3}
+
+dict → key-value pairs → {"name":"Harry", "age":20}'''
 
 age = 3 
 print(age)
