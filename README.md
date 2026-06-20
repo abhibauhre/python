@@ -1,4 +1,3 @@
-# 🧠 Python Copilot-GPT5 Learning Prompt Pack (For ML Learners)
 
 A complete end-to-end Python learning guide designed for Machine Learning students. Use this inside VS Code with GitHub Copilot or ChatGPT. Each section explains the concept from scratch to ML relevance, includes exercises, and provides Copilot prompts to auto-generate examples.
 
