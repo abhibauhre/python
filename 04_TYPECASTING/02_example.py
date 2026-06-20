@@ -11,4 +11,4 @@ print(num_str) # Output: "25"
 # Convert float to integer
 pi = 3.14
 pi_int = int(pi)
-print(pi_int) # Output: 3
+print(pi_int) # Output: 3j
