@@ -19,3 +19,19 @@
 'Q5.What is the difference between the sep and end arguments of print()?'
 # The sep argument in the print() function specifies the string that is inserted between
 #  the values being printed.
+
+#CODING QUESTION 
+'Q1.Print your name and age on separate lines using one print() statement.'
+print("Abhishek\n20")
+'Q2. Print three words separated by `---`.'
+print("Hello---World---Python")
+'Q3.Ask the user for their name and print Hello, [name]!.'
+name = input("Enter your name: ")
+print("Hello, " + name + "!")
+'Q4.Print a two-line address using `\n` and a tab-separated phone number using `\t`.'
+print("Jhansi, Uttar Pradesh\nIndia\t9876543210")
+'Q5.Ask the user for two numbers, convert them to integers, and print their sum in this format:'
+num1 = int(input("Enter first number: "))
+num2 = int(input("Enter second number: "))
+
+print("Sum:", num1 + num2)
