@@ -35,3 +35,10 @@ num1 = int(input("Enter first number: "))
 num2 = int(input("Enter second number: "))
 
 print("Sum:", num1 + num2)
+
+#Debugging question 
+i = 1
+
+while i < 6:
+    print(i)
+    i += 1
