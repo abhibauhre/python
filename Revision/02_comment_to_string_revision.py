@@ -42,3 +42,10 @@ i = 1
 while i < 6:
     print(i)
     i += 1
+
+num = int(input("Enter a number: "))
+
+if num % 2 == 0:
+    print("Even")
+else:
+    print("Odd")
