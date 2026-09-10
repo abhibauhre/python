@@ -84,4 +84,24 @@ for num in numbers:
     elif num > second_largest and num != largest:
         second_largest = num
 
-print(second_largest)    
+print(second_largest)
+
+
+def length_of_longest_substring(s):
+    seen = {}
+    left = 0
+    max_length = 0
+
+    for right in range(len(s)):
+        if s[right] in seen and seen[s[right]] >= left:
+            left = seen[s[right]] + 1
+
+        seen[s[right]] = right
+
+        current_length = right - left + 1
+        max_length = max(max_length, current_length)
+
+    return max_length
+
+
+print(length_of_longest_substring("abcabcbb"))
