@@ -105,3 +105,12 @@ def length_of_longest_substring(s):
 
 
 print(length_of_longest_substring("abcabcbb"))
+
+text = "python"
+
+reverse = ""
+
+for char in text:
+    reverse = char + reverse
+
+print(reverse)
